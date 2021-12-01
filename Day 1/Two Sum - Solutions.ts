@@ -12,6 +12,7 @@ const bruteForce = function (nums: number[], target:number) :number[] {
 
 // optimization using hash map
 // requires O(n) time, O(n) space
+// THIS IS A WRONG SOLUTION
 
 const optimization = function (nums: number[], target:number) :number[] {
     let a = {}
